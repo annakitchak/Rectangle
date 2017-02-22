@@ -1,5 +1,5 @@
 package ua.lviv;
-
+//rectangle
 public class Rectangle {
 	int a, b;
 	public Rectangle(){
